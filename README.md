@@ -206,7 +206,7 @@ La carpeta [`evolucion/`](evolucion) guarda las etapas por las que fue pasando e
 | [`03-metodos-y-agrupaciones`](evolucion/03-metodos-y-agrupaciones) | Versiones con `reduce`/`filter`/`map`, agrupaciones (`totalPorCiudad`, `unidadesPorProducto`, `topProductosPorValor`) y `verificar.js`. |
 | [`src/`](src) **(final)** | Se agrega `ventasDelDia`, el reporte completo (`reporte.js`) y `reproducir_errores.js`. |
 
-> Cada etapa es una foto del código en ese momento; algunas pueden estar incompletas a propósito. Para ejecutar el proyecto usa siempre `src/`.
+> Cada etapa es una foto del código en ese momento; algunas están incompletas o con errores de etapa temprana. Para ejecutar el proyecto usa siempre `src/`.
 
 ---
 
