@@ -1,0 +1,14 @@
+{
+  "name": "cafe-origen-algoritmia-2",
+  "version": "1.0.0",
+  "description": "Analítica de ventas de Café Tech en JavaScript puro (Algoritmia 2)",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/reporte.js",
+    "reporte": "node src/reporte.js",
+    "verificar": "node src/verificar.js",
+    "pruebas": "node src/pruebas.js",
+    "errores": "node src/reproducir_errores.js",
+    "explorar": "node src/Explorar.js"
+  }
+}
